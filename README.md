@@ -1,2 +1,2 @@
 # CSS-project
-Related to css will create a project
+Related to css will create a project.
